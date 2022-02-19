@@ -16,7 +16,6 @@ a {
 header {
     font-weight: normal;
     font-size: 50px;
-    text-align: center;
 }
 
 h1, h2 {
@@ -24,11 +23,11 @@ h1, h2 {
     font-size: 42px;
 }
 
-p, span{
+p, .footer{
     font-size: 21px;
     color: gray;
 }
 
-span {
+.footer{
     text-align: right;
 }
